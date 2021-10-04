@@ -4,7 +4,7 @@ First music composition with Noir/Retro.
 Build with:
 
     noir < first.noir > first_q96.nmf
-    nmfrate 44100 1200 96 < first_q96.nmf > first.nmf
+    nmfrate 44100 2400 96 < first_q96.nmf > first.nmf
     infrared first.tretro first.nmf first_note.lua > first.retro
     retro first.wav < first.retro
 
