@@ -9,29 +9,19 @@
 
 $ # 1
 
-{
-4 G, D  G  B  d  g
-4 FS,D  FS A  d  fs
-4 EH,BH,EH G  BH eh
-4 C, G, C  EH G  c
-4 D, G, B, D  G  B
-4 D, FS,A, D  FS A
-4 EH,G, BH,EH G  BH
-4 G, D  G  B  d  g
-:
-6. b a g eh d d eh B
-:
-^12;
-5r 4d/  5g
-5r 4d/  5fs
-5r 4eh/ 5g
-5r 4eh/ 5g
-5r 4d/  5g
-5r 4d/  5fs
-5r 4eh/ 5g
-5r 4d/  5g
-=
-}
+6b 5a 6g 5f 6eh 5d 6.c     eh'  6d' 5c' 6bh 5a 6.g  6b 5a  6.g
+@
+6r 5r 6r 5r 6r  5r 5r eh'd'c'ba 6g  5a  6g  5f 6.eh 6.g
+@
+5(GBd)  r FS
+5(GBHeh)r D
+5(EHGBH)r F
+5(CEHG) r r
+5(EHGc) r r
+6(DGB)  5(FSA)
+5(EHGBH)rr
+5(GBHeh)rr
+5(GBe)/////
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                     #
@@ -41,26 +31,27 @@ $ # 1
 
 $ # 2
 
-4(G  B  d )/////
-4(G  BH eh)/////
-4(G  c  e )/////
-4(FS c  d )/////
-
-4(F  AH B d)/////
-4(E  G  A c)/////
-4(EH GH A c)/////
+^12;
+6d 5B 6.eh 6e 5B  5gfse
+6d 5B 6.A  6d 5AH 6.G
+6.cdehg
+=
 
 @
 
-^12;
-6d 5B 6.eh
-5.e 4cBA
-6d 5c
+5(G  B  d )//
+5(G  BH eh)//
+5(G  B  e )//
+5(G  B  e )//
 
-5.B 4cde
-6.A
-5.A 4Bcd
-=
+5(G  B  d )rr
+5(FS A  d )rr
+5(F  AH B d)rr
+5(E  G  A c)rr
+5(EH GH A c)rr
+5(EH GH A c)rr
+5(EH GH A c)//
+5(EH GH A c)//
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                     #
@@ -71,11 +62,11 @@ $ # 2
 $ # 3
 
 ^12;
-5G 6.g 5fs d 5.c 4d ec 6B 5A
+6G [6.6.]g 6fs d [5.5.]c 5d ec 7B 6A
 =
 
 @
-6.g fs e eh
+[6.6.]g fs e eh
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                     #
@@ -83,30 +74,27 @@ $ # 3
 #                                                                     #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-# Recap of section I, altered
-
 $ # 4
 
-{
-4 G, D  G  B  d  g
-4 FS,D  FS A  d  fs
-4 EH,BH,EH G  BH eh
-4 D, G, B, D  G  B
-4 C, G, C, EH G  c
-4 D, FS,A, D  FS d
+6 G,  5(G  B  d )
+6 FS, 5(FS A  d )
+6 EH, 5(EH G  BH)
+6 D,  5(B, D  G )
+6 C,  5(C, EH G )
+6 D,  5(A, D  FS)
 
-:
+@
 6. b a g g g a
-:
+
+@
 ^12;
-5r 4d/  5g
-5r 4d/  5fs
-5r 4eh/ 5g
-5r 4d/  5g
-5r 4eh/ 5g
-5r 4d/  5fs
+5r 5d   5g
+5r 5d   5fs
+5r 5eh  5g
+5r 5d   5g
+5r 5eh  5g
+5r 5d   5fs
 =
-}
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                     #
@@ -116,9 +104,9 @@ $ # 4
 
 $ # 5
 
-4(G  B  e )/////
-4(GH B  eh)/////
-4(G  c  e )/////
+5(G  B  e )//
+5(GH B  eh)//
+5(G  c  e )//
 6.f
 
 @
